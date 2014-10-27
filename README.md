@@ -27,4 +27,9 @@ Not finished yet
 
 Video Walk thru
 ---------------
-Video walk thru can be found here: http://screencast.com/t/tgMtYq2p
+Video walk thru can be found here:
+
+http://imgur.com/CqU6hfZ
+
+
+
