@@ -28,7 +28,7 @@ Not finished yet
 Video Walk thru
 ---------------
 Video walk thru can be found here:
-(yelp_1.gif)
+!(yelp_1.gif)
 
 
 
