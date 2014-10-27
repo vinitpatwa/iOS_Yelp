@@ -73,7 +73,7 @@ NSString * const kYelpTokenSecret = @"EUfSvjmbgZInhiZCSjQ1D3gpUJA";
     [cell.business_image setImageWithURL:[NSURL URLWithString:itemIconUrl]];
     
     float dist = [current_item[@"distance"] floatValue];
-    cell.distance.text = [NSString stringWithFormat:@"%0.2f mi", dist];
+    cell.distance.text = [NSString stringWithFormat:@"%0.2f mi", dist/1609];
     //cell.dollar = current_item[@"display_address"];
     cell.reviews.text = [NSString stringWithFormat:@"%@ %@", current_item[@"review_count"], @"reviews"];
     NSString *address = [NSString stringWithFormat:@"%@ %@", current_item[@"location"][@"display_address"][0], current_item[@"location"][@"city"]];
